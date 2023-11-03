@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="styleSheet" href="style1.css";
+</head>
+<body>
+    <form>
+    <header>
+    <h1>THIS IS MY NEW WEBSITE</h1>
+     
+        
+
+     <p>
+    <img  alt="image" src="vishal.jpg" /> 
+    Welcome to my portfolio! I am
+     excited to share my work and experiences 
+     with you. As a [insert your profession or
+      field] with a passion for [mention specific
+       interests or specializations],
+        I have dedicated myself to creating 
+        [describe the type of work you do] that
+         [mention the impact or value it brings].
+          Through a blend of creativity, technical
+           expertise, and a keen eye for detail, I aim to
+            [mention your goals or aspirations in your field].
+        </p>
+        
+        
+
+        <h1 id="vishal">Login form</h1>
+        <h3>Contact me-:</h3>
+   
+            <div>
+            Email:
+            <input type="text", placeholder="enter your email">
+        </div>
+        <div>
+            Name:
+            <input type="text", placeholder="name"/>
+        </div>
+        <div>
+            Mobile-number:
+            <input type="text" placeholder="number"/>
+        </div>
+         
+        <div>
+            Address:
+            <input type="text" placeholder="enter address"/>
+        </div>
+            <div>
+            Current-Address:
+            <input type="text" placeholder="permanent address"/>
+        </div>
+
+        <div>
+        <button>Submit</button>
+        
+    </div>
+
+
+    <p>
+        Review:
+        <textarea placeholder="enter your Review "></textarea>
+    </p>
+
+
+    <div>
+        Search your doubt:
+        <a href="https://www.google.com/">google</a>
+         
+
+    </div>
+    
+
+    
+ 
+
+
+
+
+
+  </form>
+
+        
+         
+
+ 
+
+</header>
+<div>
+    
+</div>
+
+
+
+
+
+<div>
+
+</div>
+
+
+
+
+ 
+
+    
+</body>
+</html>
